@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-This repository contains a Bash script that calculates simple interest from user input.
+This repository contains a simple Bash script that calculates simple interest from user input.
 
 ## Project Description
 
